@@ -5,7 +5,7 @@
 #include <string.h>
 #include <sys/socket.h>
 #include <sys/types.h>
-#define SIZE 1024
+#define SIZE 2048
 
 void write_file(int socket) {
   int i;
